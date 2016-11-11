@@ -1,0 +1,4 @@
+isEmpty: Not working, returns true on empty list
+addBack: Not adding numbers to back
+removeBack: Doesn't work
+removeFront: Doesn't work
